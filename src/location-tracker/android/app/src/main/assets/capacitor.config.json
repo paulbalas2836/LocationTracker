@@ -1,0 +1,13 @@
+{
+	"appId": "com.proiectSCDAplicationTracking",
+	"appName": "Vue Location Tracker",
+	"bundledWebRuntime": false,
+	"npmClient": "npm",
+	"webDir": "public",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	},
+	"cordova": {}
+}
