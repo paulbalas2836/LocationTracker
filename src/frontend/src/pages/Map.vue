@@ -115,7 +115,7 @@ import NavigationBar from "@/components/NavigationBar";
 import axios from "axios";
 import CButton from '@/components/Button'
 import CModal from "@/components/Modal";
-const GOOGLE_MAPS_API_KEY = 'AIzaSyBOtooU2tOEPlOHsklPAvtyIglvNuu-Tgs'
+const GOOGLE_MAPS_API_KEY = ''
 const POSITION_URL = 'http://localhost:8080/position/'
 import { useCookies } from "vue3-cookies";
 const { cookies } = useCookies();
