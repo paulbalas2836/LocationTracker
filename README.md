@@ -1,6 +1,6 @@
 # Location Tracker
 
-## Vue3.js + Webpack + Java SpringBoot + Ionic & Capacitor + Google Maps API
+## A web and mobile application crafted using Vue 3.js, Webpack, and Ionic & Capacitor frameworks for tracking the user's current location via the Google Maps API. The app also retrieves and stores previous saved locations' coordinates using Java SpringBoot and PostgreSQL.
 
 ### Key features: 
   - Implementing JWT Token Authentication:
